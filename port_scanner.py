@@ -5,7 +5,7 @@
 import socket
 
 
-print("Port Scanner by 0xAzrael")
+print("Port Scanner by Mydas")
 t_host = str(input("Target Host > "))
 t_ip = socket.gethostbyname(t_host)
 
